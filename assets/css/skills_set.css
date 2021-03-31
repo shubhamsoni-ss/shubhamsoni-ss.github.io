@@ -6,8 +6,8 @@
   font-family: 'Poppins', sans-serif;
 }
 ::selection{
-  color: #fff;
-  background: #6665ee;
+  color: #000;
+  background: gainsboro;
 }
 .skill-bars{
   padding: 25px 30px;
